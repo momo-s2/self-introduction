@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(252, 232, 227);
+    font-family: "Rounded Mplus 1c";
+}
+li{
+    list-style-type: square;
+    margin: 10px;
+}
+a{
+    font-weight: bold;
+}
+table  { border: solid 1px #838282; 
+    border-collapse: separate; }
+th, td { border: solid 1px #838282; }
